@@ -1,5 +1,5 @@
 # p1ckle-vpn-client
-First c# project, contains all files of the vpn client.
+
 ![re](https://user-images.githubusercontent.com/48894109/158296108-e342f6c1-25ed-4348-82ca-3beb5613b2a9.png)
 
 
